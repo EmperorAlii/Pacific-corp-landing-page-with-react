@@ -19,3 +19,7 @@ Created Button, Flex, Container component. NavBar design is still incomplete.
 ### Third Commit Summary
 
 Completed Navbar design.
+
+### Fourth commit Summary
+
+Banner Section completed.

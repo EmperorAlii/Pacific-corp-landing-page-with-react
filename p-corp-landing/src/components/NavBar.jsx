@@ -3,7 +3,7 @@ import navLogo from "../assets/navLogo.png";
 import navVector from "../assets/navVector.png";
 import Button from "./Button";
 import Flex from "./Flex";
-import Container from "../Container";
+import Container from "./Container";
 
 const NavBar = () => {
   return (
