@@ -15,3 +15,7 @@ Installed React and tailwind for Pacific corp Landing Page
 ### Second Commit Summary
 
 Created Button, Flex, Container component. NavBar design is still incomplete.
+
+### Third Commit Summary
+
+Completed Navbar design.
