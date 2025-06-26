@@ -1,25 +1,33 @@
-# React-Projects
+# React Projects
 
-Added First Project. More projects coming.
+Collection of React-based projects. First project is the **Pacific Corp Landing Page**. More projects coming soon.
 
-## Pacific Corp Landing Page
+## 📄 Project: Pacific Corp Landing Page
 
-A Landing page based on React + TailwindCSS
+A modern landing page built using **React** and **TailwindCSS**, based on a Figma design.
 
-## Commit history
+## 🕒 Commit History
 
-### First Commit Summary
+### ✅ First Commit
 
-Installed React and tailwind for Pacific corp Landing Page
+- Initialized project with React and TailwindCSS setup.
 
-### Second Commit Summary
+### ✅ Second Commit
 
-Created Button, Flex, Container component. NavBar design is still incomplete.
+- Created `Button`, `Flex`, and `Container` components.
+- Started NavBar design (incomplete).
 
-### Third Commit Summary
+### ✅ Third Commit
 
-Completed Navbar design.
+- Completed NavBar design.
 
-### Fourth commit Summary
+### ✅ Fourth Commit
 
-Banner Section completed.
+- Completed Banner section.
+
+### ✅ Fifth Commit
+
+- Solved layout issue in the Banner section.
+- Added `OurServices` section.
+- Created reusable `SectionHeader` component.
+- Minor design tweaks.

@@ -9,3 +9,8 @@ li,
 p {
   color: #676767;
 }
+
+li:hover {
+  scale: 120%;
+  transition-duration: 4000ms;
+}
