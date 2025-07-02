@@ -31,3 +31,8 @@ A modern landing page built using **React** and **TailwindCSS**, based on a Figm
 - Added `OurServices` section.
 - Created reusable `SectionHeader` component.
 - Minor design tweaks.
+
+### ✅ Sixth Commit
+
+- Created `InsuranceCard` component.
+- Completed `Insurances` section.
