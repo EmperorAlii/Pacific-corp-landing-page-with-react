@@ -36,3 +36,8 @@ A modern landing page built using **React** and **TailwindCSS**, based on a Figm
 
 - Created `InsuranceCard` component.
 - Completed `Insurances` section.
+
+### ✅ Seventh Commit
+
+- Committed again for mistakenly Committing from p-corp-landing folder.
+- Updated `Readme.md` file.
