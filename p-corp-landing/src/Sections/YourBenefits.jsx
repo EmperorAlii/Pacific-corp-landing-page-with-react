@@ -1,16 +1,16 @@
 import React from "react";
 import SectionHeader from "../components/SectionHeader";
 
-const OurServices = () => {
+const YourBenefits = () => {
   return (
     <>
       <SectionHeader
-        label="OUR SERVICES"
-        title="Insurance made simple for you"
+        label="YOUR BENEFITS"
+        title="We’re Your Right Insurance Advocate"
         description="We work with several leading insurance companies to secure insurance coverages tailored to meet your needs."
       />
     </>
   );
 };
 
-export default OurServices;
+export default YourBenefits;

@@ -15,19 +15,19 @@ A modern landing page built using **React** and **TailwindCSS**, based on a Figm
 ### ✅ Second Commit
 
 - Created `Button`, `Flex`, and `Container` components.
-- Started NavBar design (incomplete).
+- Started `NavBar` design (incomplete).
 
 ### ✅ Third Commit
 
-- Completed NavBar design.
+- Completed `NavBar` design.
 
 ### ✅ Fourth Commit
 
-- Completed Banner section.
+- Completed `Banner` section.
 
 ### ✅ Fifth Commit
 
-- Solved layout issue in the Banner section.
+- Solved layout issue in the `Banner` section.
 - Added `OurServices` section.
 - Created reusable `SectionHeader` component.
 - Minor design tweaks.
@@ -45,4 +45,10 @@ A modern landing page built using **React** and **TailwindCSS**, based on a Figm
 ### ✅ Eighth Commit
 
 - Minor Design tweaks on `InsuranceCard` component.
-- Completed CustomerReview Section.
+- Completed `CustomerReview` section.
+
+### ✅ Ninth Commit
+
+- Minor tweak on `OurServices` section.
+- Completed `YourBenefits` section.
+- Slightly edited readme file
