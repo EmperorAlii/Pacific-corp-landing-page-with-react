@@ -6,6 +6,7 @@ import Insurances from "./Sections/Insurances";
 import CustomerReview from "./Sections/CustomerReview";
 import YourBenefits from "./Sections/YourBenefits";
 import Features from "./Sections/Features";
+import OurTips from "./Sections/OurTips";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <CustomerReview />
       <YourBenefits />
       <Features />
+      <OurTips />
     </>
   );
 }

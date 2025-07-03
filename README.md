@@ -57,3 +57,8 @@ A modern landing page built using **React** and **TailwindCSS**, based on a Figm
 
 - Changed `InsuranceCard` component name to `Card` and made changes according to it.
 - Completed Features Section.
+
+### ✅ Eleventh Commit
+
+- Completed `OurTips` section.
+- Minor tweaks in `Features` section and `Card` component.

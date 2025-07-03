@@ -20,6 +20,7 @@ const Features = () => {
             title="We’re unbiased"
             description="Our online tools help you decide what product is best for you. We’re here to insurance plan you choose."
             showLearnMore={false}
+            disableHover={true}
           >
             <img src={UnBiasedIcon} alt="unBiasedIcon" />
           </FeatureCard>
@@ -28,6 +29,7 @@ const Features = () => {
             title="We have the best prices"
             description="Our insurance plans offers are priced the same everywhere else. We just make them easier for you to find."
             showLearnMore={false}
+            disableHover={true}
           >
             <img src={PricesIcon} alt="PricesIcon" />
           </FeatureCard>
@@ -36,17 +38,19 @@ const Features = () => {
             title="We’re your insurance advocate"
             description="We will deal with the insurance companies for you, even after you’ve bought your plan."
             showLearnMore={false}
+            disableHover={true}
           >
             <img src={TickIcon} alt="TickIcon" />
           </FeatureCard>
         </Flex>
 
         {/* Second row of features */}
-        <Flex className="!justify-center mt-[85px]">
+        <Flex className="!justify-center mt-[85px] gap-7">
           <FeatureCard
             title="We’re available 24/7"
             description="We have your back 24/7 between our online chat function, email and telephone support."
             showLearnMore={false}
+            disableHover={true}
           >
             <img src={ServiceIcon} alt="ServiceIcon" />
           </FeatureCard>
@@ -55,6 +59,7 @@ const Features = () => {
             title="We make insurance simple"
             description="We’re committed to making applying for insurance as simple as can be for our customers."
             showLearnMore={false}
+            disableHover={true}
           >
             <img src={FingerIcon} alt="FingerIcon" />
           </FeatureCard>
