@@ -67,3 +67,10 @@ A modern landing page built using **React** and **TailwindCSS**, based on a Figm
 
 - Completed `FamilySection`.
 - Slightly modified `Card` component.
+
+### ✅ Thirteenth Commit
+
+- Completed `ReviewCard` component.
+- Installed `react-slick` and dependencies.
+- Finalized `Reviews` section as a React Slick carousel.
+- Made minor adjustments to `Testimonial` component.

@@ -8,6 +8,8 @@ import YourBenefits from "./Sections/YourBenefits";
 import Features from "./Sections/Features";
 import OurTips from "./Sections/OurTips";
 import FamilySection from "./Sections/FamilySection";
+import Testimonial from "./Sections/Testimonial";
+import Reviews from "./Sections/Reviews";
 
 function App() {
   return (
@@ -21,6 +23,8 @@ function App() {
       <Features />
       <OurTips />
       <FamilySection />
+      <Testimonial />
+      <Reviews />
     </>
   );
 }

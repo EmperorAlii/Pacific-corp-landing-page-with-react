@@ -6,11 +6,42 @@
 }
 
 li,
-p {
+p,
+h6 {
   color: #676767;
 }
 
 li:hover {
   scale: 120%;
   transition-duration: 4000ms;
+}
+
+.custom-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 10;
+  width: 40px;
+  height: 40px;
+  border-radius: 9999px;
+  background-color: #f97316; /* orange-500 */
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.next-arrow {
+  right: -20px;
+}
+
+.prev-arrow {
+  left: -20px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  font-size: 40px !important;
+  color: #89d32a !important;
 }
