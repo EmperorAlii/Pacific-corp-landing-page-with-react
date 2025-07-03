@@ -17,7 +17,9 @@ const Card = ({
         }`}
       >
         <div>{children}</div>
-        <h3 className="font-bold text-2xl text-[#313131] pt-7.5">{title}</h3>
+        <h3 className="font-bold text-2xl text-[#313131] pt-7.5 text-center">
+          {title}
+        </h3>
         <p className="text-center text-[16px] pt-5">{description}</p>
         {showLearnMore && (
           <h5 className="flex gap-2 justify-center items-center pt-2 font-bold text-[16px]">

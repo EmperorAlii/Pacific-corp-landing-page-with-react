@@ -62,3 +62,8 @@ A modern landing page built using **React** and **TailwindCSS**, based on a Figm
 
 - Completed `OurTips` section.
 - Minor tweaks in `Features` section and `Card` component.
+
+### ✅ Twelfth Commit
+
+- Completed `FamilySection`.
+- Slightly modified `Card` component.
