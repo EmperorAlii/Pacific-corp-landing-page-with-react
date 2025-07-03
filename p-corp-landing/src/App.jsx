@@ -10,6 +10,7 @@ import OurTips from "./Sections/OurTips";
 import FamilySection from "./Sections/FamilySection";
 import Testimonial from "./Sections/Testimonial";
 import Reviews from "./Sections/Reviews";
+import Form from "./Sections/Form";
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
       <FamilySection />
       <Testimonial />
       <Reviews />
+      <Form />
     </>
   );
 }
