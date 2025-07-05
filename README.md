@@ -75,11 +75,11 @@ A modern landing page built using **React** and **TailwindCSS**, based on a Figm
 - Finalized `Reviews` section as a React Slick carousel.
 - Made minor adjustments to `Testimonial` component.
 
-### ✅ Thirteenth Commit
+### ✅ Fourteenth Commit
 
 - Completed `Form` section.
 
-### ✅ Fourteenth Commit
+### ✅ Fifteenth Commit
 
 - Completed `Footer` section
 - Added comments in the project for clarity.
