@@ -1,9 +1,12 @@
-import React from "react";
-import FeatureCard from "../components/Card";
-import Flex from "../components/Flex";
-import Container from "../components/Container";
+// Features.jsx
+// Displays a list of key feature cards in two rows, showcasing company benefits without hover effects.
 
-// Icons
+import React from "react";
+import FeatureCard from "../components/Card"; // Reusable card component for individual features
+import Flex from "../components/Flex"; // Flexbox layout component
+import Container from "../components/Container"; // Wrapper component for consistent page width
+
+// Feature icons
 import UnBiasedIcon from "../assets/unBiasedIcon.png";
 import PricesIcon from "../assets/pricesIcon.png";
 import TickIcon from "../assets/tickIcon.png";
@@ -19,8 +22,8 @@ const Features = () => {
           <FeatureCard
             title="We’re unbiased"
             description="Our online tools help you decide what product is best for you. We’re here to insurance plan you choose."
-            showLearnMore={false}
-            disableHover={true}
+            showLearnMore={false} // Hides the 'Learn more' link
+            disableHover={true} // Disables hover lift effect
           >
             <img src={UnBiasedIcon} alt="unBiasedIcon" />
           </FeatureCard>
@@ -44,7 +47,7 @@ const Features = () => {
           </FeatureCard>
         </Flex>
 
-        {/* Second row of features */}
+        {/* Second row of features, centered with spacing */}
         <Flex className="!justify-center mt-[85px] gap-7">
           <FeatureCard
             title="We’re available 24/7"

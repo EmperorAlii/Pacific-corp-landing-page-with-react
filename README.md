@@ -77,4 +77,12 @@ A modern landing page built using **React** and **TailwindCSS**, based on a Figm
 
 ### ✅ Thirteenth Commit
 
-- Completed `Form` Section.
+- Completed `Form` section.
+
+### ✅ Fourteenth Commit
+
+- Completed `Footer` section
+- Added comments in the project for clarity.
+- Minor adjustments in `index.css` file.
+- Landing Page design Completed.
+- Responsive design is yet to be completed.

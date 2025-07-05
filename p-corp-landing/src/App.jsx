@@ -11,10 +11,12 @@ import FamilySection from "./Sections/FamilySection";
 import Testimonial from "./Sections/Testimonial";
 import Reviews from "./Sections/Reviews";
 import Form from "./Sections/Form";
+import Footer from "./Sections/Footer";
 
 function App() {
   return (
     <>
+      {/* All Sections Here */}
       <NavBar />
       <Banner />
       <OurServices />
@@ -27,6 +29,7 @@ function App() {
       <Testimonial />
       <Reviews />
       <Form />
+      <Footer />
     </>
   );
 }
