@@ -11,7 +11,7 @@ import UnBiasedIcon from "../assets/unBiasedIcon.png";
 import PricesIcon from "../assets/pricesIcon.png";
 import TickIcon from "../assets/tickIcon.png";
 import ServiceIcon from "../assets/serviceIcon.png";
-import FingerIcon from "../assets/FingerIcon.png";
+import FingerIcon from "../assets/fingerIcon.png";
 
 const Features = () => {
   return (
