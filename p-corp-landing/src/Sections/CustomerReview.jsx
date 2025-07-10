@@ -7,7 +7,7 @@ import Container from "../components/Container"; // Wrapper to constrain width a
 // Assets
 import Customer from "../assets/danielAnderson.png"; // Customer photo
 import leftIcon from "../assets/quoteLeft.png"; // Decorative left quote icon
-import verifiedIcon from "../assets/Verified.svg"; // Verified customer badge icon
+import verifiedIcon from "../assets/verified.svg"; // Verified customer badge icon
 
 const CustomerReview = () => {
   return (
