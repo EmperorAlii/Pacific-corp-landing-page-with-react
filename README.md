@@ -1,7 +1,3 @@
-# React Projects
-
-Collection of React-based projects. First project is the **Pacific Corp Landing Page**. More projects coming soon.
-
 ## 📄 Project: Pacific Corp Landing Page
 
 A modern landing page built using **React** and **TailwindCSS**, based on a Figma design.
